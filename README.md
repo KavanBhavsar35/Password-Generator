@@ -21,7 +21,8 @@ This web application allows you to generate strong and secure passwords with var
 
 ## Usage
 
-1. Visit the [Password Generator](https://kavanbhavsar35.github.io/Password-Generator/) website.
+1. Visit the [Password Generator](https://kavanbhavsar35.github.io/Password-Generator/){:target="_blank"}
+ website.
 2. Adjust the settings to customize your password.
 3. Click the "Generate Password" button to create a strong password.
 4. Use the generated password for your online accounts or other security needs.
