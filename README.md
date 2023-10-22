@@ -29,7 +29,7 @@ This web application allows you to generate strong and secure passwords with var
 
 ## Installation
 
-You can access and use the Password Generator by visiting the hosted website [here](https://kavanbhavsar35.github.io/Password-Generator/). There is no need for any installation on your local machine.
+You can access and use the Password Generator by visiting the hosted website [here](https://kavanbhavsar35.github.io/Password-Generator/){:target="_blank"}. There is no need for any installation on your local machine.
 
 ## License
 
