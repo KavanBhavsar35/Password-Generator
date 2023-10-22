@@ -21,15 +21,15 @@ This web application allows you to generate strong and secure passwords with var
 
 ## Usage
 
-1. Visit the [Password Generator](#) website.
+1. Visit the [Password Generator](https://kavanbhavsar35.github.io/Password-Generator/) website.
 2. Adjust the settings to customize your password.
 3. Click the "Generate Password" button to create a strong password.
 4. Use the generated password for your online accounts or other security needs.
 
 ## Installation
 
-You can access and use the Password Generator by visiting the hosted website [here](#). There is no need for any installation on your local machine.
+You can access and use the Password Generator by visiting the hosted website [here](https://kavanbhavsar35.github.io/Password-Generator/). There is no need for any installation on your local machine.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
